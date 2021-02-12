@@ -55,7 +55,8 @@
 <img src="README.assets/코스크.png"  width="200" />
 <img src="README.assets/턱스크.png"  width="200" />
 </p>
-![s10](README.assets/슬라이드10.PNG) 
+
+![s10](README.assets/슬라이드10.PNG)  
 
 ***
 ### `데이터 전처리` 
@@ -116,6 +117,9 @@
 <p align="center">
 <img src="README.assets/simulation.gif"/>
 </p>
+
+
 ### [시연 영상(simulation video)](https://drive.google.com/file/d/1IlzvgOAeK7getFS02K_aWnXlLniFIVer/view?usp=sharing) <a><img src="https://media.giphy.com/media/mFknMI76h9WHmuukXw/giphy.gif" width="40px"></a> 
+
 ***
 
